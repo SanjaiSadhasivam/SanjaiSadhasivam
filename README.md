@@ -1,7 +1,8 @@
 # Hi there, I'm Sanjai! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sanjai-s-0048b8209)
-[![Instagram](https://www.instagram.com/__snj__san_)
+[![LinkedIn](https://img.shields.io/badge/Instagram-Follow-orange)]([https://www.linkedin.com/in/sanjai-s-0048b8209](https://www.instagram.com/__snj__san_))
+
 
 
 ## About Me
@@ -28,7 +29,7 @@ I'm a passionate software developer with a knack for problem-solving and a love 
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/sanjai-s-0048b8209)
-- [LinkedIn](https://www.instagram.com/__snj__san_)
+- [Instagram](https://www.instagram.com/__snj__san_)
 
 
 
