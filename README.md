@@ -30,7 +30,7 @@ I'm a passionate software developer with a knack for problem-solving and a love 
 
 GitHub Stats
 
-[Sanjai's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanjaiSadhasivam&show_icons=true&theme=radical)
+![Sanjai's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanjaiSadhasivam&show_icons=true&theme=radical)
 
 ## Support
 
