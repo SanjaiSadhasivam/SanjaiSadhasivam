@@ -1,7 +1,7 @@
 # Hi there, I'm Sanjai! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sanjai-s-0048b8209)
-[![LinkedIn](https://img.shields.io/badge/Instagram-Follow-orange)]([https://www.linkedin.com/in/sanjai-s-0048b8209](https://www.instagram.com/__snj__san_))
+[![LinkedIn](https://img.shields.io/badge/Instagram-Follow-orange)](https://www.instagram.com/__snj__san_)
 
 
 
