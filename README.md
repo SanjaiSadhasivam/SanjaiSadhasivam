@@ -29,9 +29,6 @@ I'm a passionate software developer with a knack for problem-solving and a love 
 - [LinkedIn](https://www.linkedin.com/in/sanjai-s-0048b8209)
 
 
-## GitHub Stats
-
-![Sanjai's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanjaiSadhasivam&show_icons=true&theme=radical)
 
 ## Support
 
